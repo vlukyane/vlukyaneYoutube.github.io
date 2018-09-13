@@ -16,7 +16,7 @@ function gettinStarted() {
         //clearButtonLoadMore();
         var request = {
             mainText: 'https://www.googleapis.com/youtube/v3/search?key=',
-            apiKey: "AIzaSyAezjPltv0vkq6xzFlxfu9zHrQc1h4OHQ0",
+            apiKey: "-----------------------------------",
             part: "snippet",
             type: "video",
             maxResults: 50,
